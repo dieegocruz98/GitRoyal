@@ -10,8 +10,7 @@ public class BotEstadoAnimo {
         String nombre = s.nextLine();
 
         System.out.println(nombre + ", qué tal estas hoy?\n1-Triste\n2-Alegre\n3-Nervioso");
-        String animo = s.nextLine();
-        animo = animo.toLowerCase();
+        String animo = s.nextLine().toLowerCase();
         s.close();
 
         String[] chistes = {"¿Cuál es el último animal que subió al arca de Noé? El del-fin.",
