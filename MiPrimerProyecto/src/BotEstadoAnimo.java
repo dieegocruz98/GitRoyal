@@ -1,3 +1,5 @@
+import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -5,8 +7,9 @@ public class BotEstadoAnimo {
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
+        LocalDate ld = LocalDate.from(LocalDateTime.now());
 
-        System.out.println("Bienvenido! Como te llamas?");
+        System.out.println("Bienvenido! Hoy es: " + ld + " ¿Como te llamas?");
         String nombre = s.nextLine();
 
         System.out.println(nombre + ", qué tal estas hoy?\n1-Triste\n2-Alegre\n3-Nervioso");
