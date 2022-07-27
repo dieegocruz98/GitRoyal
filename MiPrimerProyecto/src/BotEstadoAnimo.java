@@ -34,8 +34,9 @@ public class BotEstadoAnimo {
             case "alegre":
                 System.out.println("Enhorabuena! Me alegro mucho");
                 break;
-            case "Nervioso":
+            case "nervioso":
                 System.out.println("Tranquil@! Tu puedes con esto y más!!!");
+                break;
             default:
                 System.err.println("No has introducido bien tu estado de animo\nAbortando programa!!");
         }
