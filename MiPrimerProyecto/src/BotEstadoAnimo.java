@@ -39,6 +39,7 @@ public class BotEstadoAnimo {
                 break;
             default:
                 System.err.println("No has introducido bien tu estado de animo\nAbortando programa!!");
+                break;
         }
 
     }
