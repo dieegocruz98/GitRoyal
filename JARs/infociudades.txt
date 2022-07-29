@@ -1,0 +1,5 @@
+####INFO GENERADA####
+
+Madrid: se extiende 604.3 km^2. Viven 3.22 millones de personas y hoy su tiempo sera soleado
+Nueva York: se extiende 783.8 km^2. Viven 8.38 millones de personas y hoy su tiempo sera lluvioso
+Tokyo: se extiende 2194.0 km^2. Viven 13.96 millones de personas y hoy su tiempo sera soleado
