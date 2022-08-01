@@ -1,0 +1,9 @@
+#######CLIMA DE SANTANDER#######
+
+Día 1: Harán 16 grados de minima y 26 de máxima
+Día 2: Harán 17 grados de minima y 27 de máxima
+Día 3: Harán 19 grados de minima y 25 de máxima
+Día 4: Harán 19 grados de minima y 24 de máxima
+Día 5: Harán 18 grados de minima y 24 de máxima
+Día 6: Harán 17 grados de minima y 26 de máxima
+Día 7: Harán 18 grados de minima y 27 de máxima
