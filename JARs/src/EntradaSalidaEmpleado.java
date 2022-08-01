@@ -29,21 +29,21 @@ class Persona{
 }
 
 class Empleado extends Persona implements EgresoIngreso{
-    int ID = 0;
-    String password;
+    private int ID = 0;
+    private static int ultimoID;
+    private String password;
 
-    String horaEntrada;
-    String horaSalida;
+    private String horaEntrada;
+    private String horaSalida;
 
     final DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MM HH:mm:ss");
 
     public Empleado() {
-        setID(++ID);
+        this.ID = ++ultimoID;
         password = "ABc" + (ID*2);
     }
     public Empleado(String nombre, int edad) {
-        setID(++ID);
-        password = "ABc" + (ID*2);
+        this();
         setNombre(nombre);
         setEdad(edad);
     }
