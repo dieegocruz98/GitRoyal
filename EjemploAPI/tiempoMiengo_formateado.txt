@@ -1,0 +1,9 @@
+#####IMPRIMIENDO LAS TEMPERATURAS DE MIENGO#####
+
+Día 1: 23.5 °C
+Día 2: 23.5 °C
+Día 3: 23.3 °C
+Día 4: 23.2 °C
+Día 5: 23.1 °C
+Día 6: 23.0 °C
+Día 7: 23.4 °C
